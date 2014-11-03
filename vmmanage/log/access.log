@@ -1,0 +1,821 @@
+[INFO] 2014-10-01 20:13:31,664 VM vm-078 has started in the 10.10.10.84
+[INFO] 2014-10-01 20:13:35,042 Stop VM vm-078 success
+[INFO] 2014-10-01 20:13:35,779 Start VM vm-078 success
+[INFO] 2014-10-01 20:13:39,824 Stop VM vm-078 success
+[INFO] 2014-10-01 20:13:43,535 Start VM vm-078 success
+[INFO] 2014-10-01 20:17:56,580 Stop VM vm-078 success
+[INFO] 2014-10-01 20:17:56,755 Delete VM vm-078 success
+[INFO] 2014-10-01 20:18:36,401 Wait for the VM vm-078 to clone...
+[INFO] 2014-10-01 20:24:24,169 Clone VM default-tpl to vm-078 success
+[INFO] 2014-10-01 20:24:24,681 Wait for the VM vm-078 to start...
+[INFO] 2014-10-01 20:24:26,058 Start VM vm-078 success
+[INFO] 2014-10-01 20:25:26,123 Configure VM vm-078 network success.
+[INFO] 2014-10-01 20:25:26,913 Stop VM vm-078 success
+[INFO] 2014-10-01 20:25:27,092 Delete VM vm-078 success
+[INFO] 2014-10-01 20:25:27,677 Define VM vm-078 success
+[INFO] 2014-10-01 20:25:29,382 Start VM vm-078 success
+[INFO] 2014-10-01 20:30:04,957 Stop VM vm-078 success
+[INFO] 2014-10-01 20:30:05,523 Delete VM vm-078 success
+[INFO] 2014-10-01 20:34:09,867 Stop VM vm-077 success
+[INFO] 2014-10-01 20:34:24,948 Start VM vm-077 success
+[INFO] 2014-10-03 19:06:44,898 Start VM vm-082 success
+[INFO] 2014-10-04 00:35:42,322 Stop VM vm-082 success
+[INFO] 2014-10-04 00:39:34,869 VM vm-082 has started in the 10.10.10.217
+[INFO] 2014-10-04 00:39:52,438 Stop VM vm-082 success
+[INFO] 2014-10-04 00:40:17,497 Start VM vm-082 success
+[INFO] 2014-10-08 11:31:51,836 Stop VM vm-rd005-186 success
+[INFO] 2014-10-08 11:31:56,254 Start VM vm-rd005-186 success
+[INFO] 2014-10-08 11:36:29,034 Wait for the VM vm-078 to clone...
+[INFO] 2014-10-08 11:41:06,822 Clone VM default-tpl to vm-078 success
+[INFO] 2014-10-08 11:41:07,332 Wait for the VM vm-078 to start...
+[INFO] 2014-10-08 11:41:09,608 Start VM vm-078 success
+[INFO] 2014-10-08 11:42:09,693 Configure VM vm-078 network success.
+[INFO] 2014-10-08 11:42:10,531 Stop VM vm-078 success
+[INFO] 2014-10-08 11:42:10,731 Delete VM vm-078 success
+[INFO] 2014-10-08 11:42:11,374 Define VM vm-078 success
+[INFO] 2014-10-08 11:42:13,154 Start VM vm-078 success
+[INFO] 2014-10-08 12:17:09,914 Wait for the VM vm-079 to clone...
+[INFO] 2014-10-08 12:28:44,395 Clone VM default-tpl to vm-079 success
+[INFO] 2014-10-08 12:28:44,947 Wait for the VM vm-079 to start...
+[INFO] 2014-10-08 12:28:46,232 Start VM vm-079 success
+[INFO] 2014-10-08 12:29:46,365 Configure VM vm-079 network success.
+[INFO] 2014-10-08 12:29:47,144 Stop VM vm-079 success
+[INFO] 2014-10-08 12:29:47,333 Delete VM vm-079 success
+[INFO] 2014-10-08 12:29:48,389 Define VM vm-079 success
+[INFO] 2014-10-08 12:29:50,146 Start VM vm-079 success
+[INFO] 2014-10-09 18:41:58,836 Stop VM vm-069 success
+[INFO] 2014-10-09 18:42:15,663 Start VM vm-069 success
+[INFO] 2014-10-10 10:10:51,736 Wait for the VM vm-083 to clone...
+[INFO] 2014-10-10 10:11:15,709 Wait for the VM vm-081 to clone...
+[INFO] 2014-10-10 11:36:54,092 Wait for the VM vm-088 to clone...
+[INFO] 2014-10-10 11:36:57,032 Wait for the VM vm-087 to clone...
+[INFO] 2014-10-10 11:36:59,591 Wait for the VM vm-086 to clone...
+[INFO] 2014-10-10 11:37:02,302 Wait for the VM vm-089 to clone...
+[INFO] 2014-10-10 11:37:04,468 Wait for the VM vm-084 to clone...
+[INFO] 2014-10-10 11:47:20,120 Wait for the VM vm-085 to clone...
+[INFO] 2014-10-10 11:47:31,409 Wait for the VM vm-091 to clone...
+[INFO] 2014-10-10 11:56:46,767 Clone VM default-tpl to vm-089 success
+[INFO] 2014-10-10 11:56:47,289 Wait for the VM vm-089 to start...
+[INFO] 2014-10-10 11:56:50,416 Start VM vm-089 success
+[INFO] 2014-10-10 11:57:50,592 Configure VM vm-089 network success.
+[INFO] 2014-10-10 11:58:02,494 Stop VM vm-089 success
+[INFO] 2014-10-10 11:58:02,709 Delete VM vm-089 success
+[INFO] 2014-10-10 11:58:03,020 Define VM vm-089 success
+[INFO] 2014-10-10 11:58:04,117 Start VM vm-089 success
+[INFO] 2014-10-10 12:02:40,923 Clone VM default-tpl to vm-085 success
+[INFO] 2014-10-10 12:02:41,503 Wait for the VM vm-085 to start...
+[INFO] 2014-10-10 12:02:43,321 Start VM vm-085 success
+[INFO] 2014-10-10 12:03:21,534 Clone VM wanliu-tpl to vm-081 success
+[INFO] 2014-10-10 12:03:22,075 Wait for the VM vm-081 to start...
+[INFO] 2014-10-10 12:03:23,493 Clone VM wanliu-tpl to vm-083 success
+[INFO] 2014-10-10 12:03:23,720 Start VM vm-081 success
+[INFO] 2014-10-10 12:03:24,014 Wait for the VM vm-083 to start...
+[INFO] 2014-10-10 12:03:25,673 Start VM vm-083 success
+[INFO] 2014-10-10 12:03:43,347 Configure VM vm-085 network success.
+[INFO] 2014-10-10 12:03:44,184 Stop VM vm-085 success
+[INFO] 2014-10-10 12:03:44,377 Delete VM vm-085 success
+[INFO] 2014-10-10 12:03:45,054 Define VM vm-085 success
+[INFO] 2014-10-10 12:03:45,749 Start VM vm-085 success
+[INFO] 2014-10-10 12:04:23,801 Configure VM vm-081 network success.
+[INFO] 2014-10-10 12:04:24,728 Stop VM vm-081 success
+[INFO] 2014-10-10 12:04:24,985 Delete VM vm-081 success
+[INFO] 2014-10-10 12:04:25,209 Define VM vm-081 success
+[INFO] 2014-10-10 12:04:25,816 Configure VM vm-083 network success.
+[INFO] 2014-10-10 12:04:25,988 Start VM vm-081 success
+[INFO] 2014-10-10 12:04:26,696 Stop VM vm-083 success
+[INFO] 2014-10-10 12:04:26,890 Delete VM vm-083 success
+[INFO] 2014-10-10 12:04:27,081 Define VM vm-083 success
+[INFO] 2014-10-10 12:04:27,805 Start VM vm-083 success
+[INFO] 2014-10-10 12:07:34,485 VM vm-085 has started in the 10.10.10.96
+[INFO] 2014-10-10 12:07:38,864 VM vm-083 has started in the 10.10.10.96
+[INFO] 2014-10-10 13:48:25,824 Clone VM wanliu-tpl to vm-087 success
+[INFO] 2014-10-10 13:48:25,824 Clone VM wanliu-tpl to vm-084 success
+[INFO] 2014-10-10 13:48:26,549 Clone VM wanliu-tpl to vm-088 success
+[INFO] 2014-10-10 13:48:26,701 Wait for the VM vm-087 to start...
+[INFO] 2014-10-10 13:48:26,702 Wait for the VM vm-084 to start...
+[INFO] 2014-10-10 13:48:27,194 Wait for the VM vm-088 to start...
+[INFO] 2014-10-10 13:48:30,664 Clone VM wanliu-tpl to vm-086 success
+[INFO] 2014-10-10 13:48:31,191 Wait for the VM vm-086 to start...
+[INFO] 2014-10-10 13:48:31,212 Start VM vm-084 success
+[INFO] 2014-10-10 13:48:31,232 Clone VM wanliu-tpl to vm-091 success
+[INFO] 2014-10-10 13:48:31,431 Start VM vm-087 success
+[INFO] 2014-10-10 13:48:31,454 Start VM vm-088 success
+[INFO] 2014-10-10 13:48:31,857 Wait for the VM vm-091 to start...
+[INFO] 2014-10-10 13:48:32,860 Start VM vm-086 success
+[INFO] 2014-10-10 13:48:34,292 Start VM vm-091 success
+[INFO] 2014-10-10 13:49:31,293 Configure VM vm-084 network success.
+[INFO] 2014-10-10 13:49:31,498 Configure VM vm-087 network success.
+[INFO] 2014-10-10 13:49:31,523 Configure VM vm-088 network success.
+[INFO] 2014-10-10 13:49:32,269 Stop VM vm-084 success
+[INFO] 2014-10-10 13:49:32,856 Stop VM vm-087 success
+[INFO] 2014-10-10 13:49:32,856 Stop VM vm-088 success
+[INFO] 2014-10-10 13:49:32,886 Delete VM vm-084 success
+[INFO] 2014-10-10 13:49:33,098 Configure VM vm-086 network success.
+[INFO] 2014-10-10 13:49:33,328 Delete VM vm-087 success
+[INFO] 2014-10-10 13:49:33,328 Delete VM vm-088 success
+[INFO] 2014-10-10 13:49:33,540 Define VM vm-084 success
+[INFO] 2014-10-10 13:49:33,988 Define VM vm-087 success
+[INFO] 2014-10-10 13:49:34,007 Define VM vm-088 success
+[INFO] 2014-10-10 13:49:34,445 Configure VM vm-091 network success.
+[INFO] 2014-10-10 13:49:34,448 Stop VM vm-086 success
+[INFO] 2014-10-10 13:49:34,690 Start VM vm-084 success
+[INFO] 2014-10-10 13:49:34,839 Delete VM vm-086 success
+[INFO] 2014-10-10 13:49:35,685 Define VM vm-086 success
+[INFO] 2014-10-10 13:49:35,835 Stop VM vm-091 success
+[INFO] 2014-10-10 13:49:36,016 Delete VM vm-091 success
+[INFO] 2014-10-10 13:49:36,038 Start VM vm-087 success
+[INFO] 2014-10-10 13:49:36,039 Start VM vm-088 success
+[INFO] 2014-10-10 13:49:36,596 Define VM vm-091 success
+[INFO] 2014-10-10 13:49:36,617 Start VM vm-086 success
+[INFO] 2014-10-10 13:49:37,342 Start VM vm-091 success
+[INFO] 2014-10-10 13:59:16,765 Stop VM vm-085 success
+[INFO] 2014-10-10 13:59:17,594 Start VM vm-085 success
+[INFO] 2014-10-10 14:28:21,454 Start VM vm-rd-005 success
+[INFO] 2014-10-10 14:29:08,857 Start VM vm-rd-006 success
+[INFO] 2014-10-10 14:29:18,922 Start VM vm-rd-007 success
+[INFO] 2014-10-10 14:29:26,717 Start VM vm-rd-008 success
+[INFO] 2014-10-10 15:45:28,701 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:45:33,909 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:45:36,456 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:45:45,222 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:45:52,844 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:45:58,085 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:46:09,792 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:46:19,854 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:46:22,281 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:46:24,894 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:46:58,742 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:47:10,959 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:47:25,687 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:47:39,182 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:49:26,766 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 15:49:35,451 The user guolin within a minute repeated submission.
+[INFO] 2014-10-10 16:15:24,433 VM vm-089 has started in the 10.10.10.96
+[INFO] 2014-10-10 16:17:01,469 The user wangxiangwei within a minute repeated submission.
+[INFO] 2014-10-10 16:23:01,937 Wait for the VM vm-090 to clone...
+[INFO] 2014-10-10 16:53:24,560 Stop VM vm-085 success
+[INFO] 2014-10-10 16:53:24,741 Delete VM vm-085 success
+[INFO] 2014-10-10 17:08:20,199 Wait for the VM vm-093 to clone...
+[INFO] 2014-10-10 17:53:35,203 Clone VM wanliu-tpl to vm-090 success
+[INFO] 2014-10-10 17:53:35,737 Wait for the VM vm-090 to start...
+[INFO] 2014-10-10 17:53:38,452 Start VM vm-090 success
+[INFO] 2014-10-10 17:54:38,539 Configure VM vm-090 network success.
+[INFO] 2014-10-10 17:54:39,403 Stop VM vm-090 success
+[INFO] 2014-10-10 17:54:39,621 Delete VM vm-090 success
+[INFO] 2014-10-10 17:54:39,850 Define VM vm-090 success
+[INFO] 2014-10-10 17:54:40,605 Start VM vm-090 success
+[INFO] 2014-10-10 18:48:14,692 Clone VM wanliu-tpl to vm-093 success
+[INFO] 2014-10-10 18:48:15,187 Wait for the VM vm-093 to start...
+[INFO] 2014-10-10 18:48:18,675 Start VM vm-093 success
+[INFO] 2014-10-10 18:49:18,851 Configure VM vm-093 network success.
+[INFO] 2014-10-10 18:49:19,615 Stop VM vm-093 success
+[INFO] 2014-10-10 18:49:19,792 Delete VM vm-093 success
+[INFO] 2014-10-10 18:49:20,017 Define VM vm-093 success
+[INFO] 2014-10-10 18:49:20,756 Start VM vm-093 success
+[INFO] 2014-10-10 20:11:30,250 Wait for the VM vm-094 to clone...
+[INFO] 2014-10-10 21:01:38,821 The user liujiangbei within a minute repeated submission.
+[INFO] 2014-10-10 21:58:15,471 Clone VM wanliu-tpl to vm-094 success
+[INFO] 2014-10-10 21:58:15,958 Wait for the VM vm-094 to start...
+[INFO] 2014-10-10 21:58:19,692 Start VM vm-094 success
+[INFO] 2014-10-10 21:59:19,778 Configure VM vm-094 network success.
+[INFO] 2014-10-10 21:59:20,530 Stop VM vm-094 success
+[INFO] 2014-10-10 21:59:20,707 Delete VM vm-094 success
+[INFO] 2014-10-10 21:59:20,928 Define VM vm-094 success
+[INFO] 2014-10-10 21:59:21,649 Start VM vm-094 success
+[INFO] 2014-10-10 22:38:46,443 Wait for the VM vm-092 to clone...
+[INFO] 2014-10-11 00:25:31,956 Clone VM wanliu-tpl to vm-092 success
+[INFO] 2014-10-11 01:57:23,036 VM vm-092 has started in the 10.10.10.67
+[INFO] 2014-10-11 01:57:27,544 Stop VM vm-092 success
+[INFO] 2014-10-11 01:57:48,338 Start VM vm-092 success
+[INFO] 2014-10-11 08:49:33,491 Wait for the VM vm-085 to clone...
+[INFO] 2014-10-11 08:49:49,656 Wait for the VM vm-096 to clone...
+[INFO] 2014-10-11 09:32:27,810 Clone VM qa-tpl to vm-085 success
+[INFO] 2014-10-11 09:32:28,325 Wait for the VM vm-085 to start...
+[INFO] 2014-10-11 09:32:31,084 Start VM vm-085 success
+[INFO] 2014-10-11 09:33:31,159 Configure VM vm-085 network success.
+[INFO] 2014-10-11 09:33:31,957 Stop VM vm-085 success
+[INFO] 2014-10-11 09:33:32,145 Delete VM vm-085 success
+[INFO] 2014-10-11 09:33:32,356 Define VM vm-085 success
+[INFO] 2014-10-11 09:33:33,104 Start VM vm-085 success
+[INFO] 2014-10-11 10:27:18,865 Clone VM qa-tpl to vm-096 success
+[INFO] 2014-10-11 10:27:19,355 Wait for the VM vm-096 to start...
+[INFO] 2014-10-11 10:27:22,562 Start VM vm-096 success
+[INFO] 2014-10-11 10:28:22,660 Configure VM vm-096 network success.
+[INFO] 2014-10-11 10:28:23,424 Stop VM vm-096 success
+[INFO] 2014-10-11 10:28:23,614 Delete VM vm-096 success
+[INFO] 2014-10-11 10:28:23,846 Define VM vm-096 success
+[INFO] 2014-10-11 10:28:24,557 Start VM vm-096 success
+[INFO] 2014-10-11 10:39:10,735 VM vm-085 has started in the 10.10.10.67
+[INFO] 2014-10-11 13:13:03,627 The user guolin within a minute repeated submission.
+[INFO] 2014-10-11 13:13:28,410 The user guolin within a minute repeated submission.
+[INFO] 2014-10-11 13:16:58,608 The user guolin within a minute repeated submission.
+[INFO] 2014-10-11 13:17:03,618 The user guolin within a minute repeated submission.
+[INFO] 2014-10-11 13:17:45,183 Wait for the VM vm-101 to clone...
+[INFO] 2014-10-11 13:22:38,601 Wait for the VM vm-099 to clone...
+[INFO] 2014-10-11 13:34:55,197 Clone VM default-tpl to vm-099 success
+[INFO] 2014-10-11 13:34:55,738 Wait for the VM vm-099 to start...
+[INFO] 2014-10-11 13:34:56,972 Start VM vm-099 success
+[INFO] 2014-10-11 13:35:57,232 Configure VM vm-099 network success.
+[INFO] 2014-10-11 13:36:05,552 Stop VM vm-099 success
+[INFO] 2014-10-11 13:36:05,733 Delete VM vm-099 success
+[INFO] 2014-10-11 13:36:05,942 Define VM vm-099 success
+[INFO] 2014-10-11 13:36:06,656 Start VM vm-099 success
+[INFO] 2014-10-11 13:44:39,792 Stop VM vm-099 success
+[INFO] 2014-10-11 13:44:46,543 Delete VM vm-099 success
+[INFO] 2014-10-11 14:30:42,447 Stop VM vm-099 success
+[INFO] 2014-10-11 14:30:48,626 Start VM vm-099 success
+[INFO] 2014-10-11 14:47:47,682 Clone VM qa-tpl to vm-101 success
+[INFO] 2014-10-11 14:47:48,202 Wait for the VM vm-101 to start...
+[INFO] 2014-10-11 14:47:51,747 Start VM vm-101 success
+[INFO] 2014-10-11 14:48:51,831 Configure VM vm-101 network success.
+[INFO] 2014-10-11 14:48:52,617 Stop VM vm-101 success
+[INFO] 2014-10-11 14:48:52,794 Delete VM vm-101 success
+[INFO] 2014-10-11 14:48:52,995 Define VM vm-101 success
+[INFO] 2014-10-11 14:48:53,675 Start VM vm-101 success
+[INFO] 2014-10-11 15:09:59,421 Stop VM vm-099 success
+[INFO] 2014-10-11 15:09:59,599 Delete VM vm-099 success
+[INFO] 2014-10-11 17:09:40,711 Wait for the VM vm-103 to clone...
+[INFO] 2014-10-11 17:11:24,389 Wait for the VM vm-103 to clone...
+[INFO] 2014-10-11 18:57:07,955 Clone VM wanliu-tpl to vm-103 success
+[INFO] 2014-10-11 18:57:08,465 Wait for the VM vm-103 to start...
+[INFO] 2014-10-11 18:57:12,242 Start VM vm-103 success
+[INFO] 2014-10-11 18:58:12,429 Configure VM vm-103 network success.
+[INFO] 2014-10-11 18:58:13,222 Stop VM vm-103 success
+[INFO] 2014-10-11 18:58:13,401 Delete VM vm-103 success
+[INFO] 2014-10-11 18:58:13,608 Define VM vm-103 success
+[INFO] 2014-10-11 18:58:14,317 Start VM vm-103 success
+[INFO] 2014-10-11 19:10:30,971 Stop VM vm-103 success
+[INFO] 2014-10-11 19:10:41,587 Delete VM vm-103 success
+[INFO] 2014-10-11 19:10:41,600 In the DHCP 10.10.10.52 to delete the DHCP configuration file error
+[INFO] 2014-10-11 19:14:15,505 The user guolin within a minute repeated submission.
+[INFO] 2014-10-11 19:34:46,293 The user guolin within a minute repeated submission.
+[INFO] 2014-10-11 19:40:46,054 Wait for the VM vm-103 to clone...
+[INFO] 2014-10-11 19:52:59,858 Clone VM default-tpl to vm-103 success
+[INFO] 2014-10-11 19:53:00,316 Wait for the VM vm-103 to start...
+[INFO] 2014-10-11 19:53:01,478 Start VM vm-103 success
+[INFO] 2014-10-11 20:04:32,566 Stop VM vm-103 success
+[INFO] 2014-10-11 20:04:39,537 Delete VM vm-103 success
+[INFO] 2014-10-11 20:06:08,253 Wait for the VM vm-103 to clone...
+[INFO] 2014-10-11 20:17:41,558 Clone VM default-tpl to vm-103 success
+[INFO] 2014-10-11 20:17:41,948 Wait for the VM vm-103 to start...
+[INFO] 2014-10-11 20:17:43,100 Start VM vm-103 success
+[INFO] 2014-10-11 20:18:43,167 Configure VM vm-103 network success.
+[INFO] 2014-10-11 20:18:43,932 Stop VM vm-103 success
+[INFO] 2014-10-11 20:18:44,109 Delete VM vm-103 success
+[INFO] 2014-10-11 20:18:44,319 Define VM vm-103 success
+[INFO] 2014-10-11 20:18:45,020 Start VM vm-103 success
+[INFO] 2014-10-11 20:20:07,439 Stop VM vm-103 success
+[INFO] 2014-10-11 20:20:07,616 Delete VM vm-103 success
+[INFO] 2014-10-12 13:20:52,051 The user guolin within a minute repeated submission.
+[INFO] 2014-10-13 18:40:25,042 Wait for the VM vm-099 to clone...
+[INFO] 2014-10-13 18:40:50,148 Wait for the VM vm-098 to clone...
+[INFO] 2014-10-13 18:40:58,795 Wait for the VM vm-097 to clone...
+[INFO] 2014-10-13 18:56:39,847 Clone VM default-tpl to vm-097 success
+[INFO] 2014-10-13 18:56:40,352 Wait for the VM vm-097 to start...
+[INFO] 2014-10-13 18:56:42,132 Start VM vm-097 success
+[INFO] 2014-10-13 18:57:42,301 Configure VM vm-097 network success.
+[INFO] 2014-10-13 18:57:47,612 Stop VM vm-097 success
+[INFO] 2014-10-13 18:57:47,792 Delete VM vm-097 success
+[INFO] 2014-10-13 18:57:50,381 Define VM vm-097 success
+[INFO] 2014-10-13 18:57:51,091 Start VM vm-097 success
+[INFO] 2014-10-13 20:14:56,474 Clone VM wanliu-tpl to vm-098 success
+[INFO] 2014-10-13 20:14:56,984 Wait for the VM vm-098 to start...
+[INFO] 2014-10-13 20:14:58,942 Clone VM wanliu-tpl to vm-099 success
+[INFO] 2014-10-13 20:14:59,457 Wait for the VM vm-099 to start...
+[INFO] 2014-10-13 20:14:59,711 Start VM vm-098 success
+[INFO] 2014-10-13 20:15:01,630 Start VM vm-099 success
+[INFO] 2014-10-13 20:15:59,797 Configure VM vm-098 network success.
+[INFO] 2014-10-13 20:16:00,563 Stop VM vm-098 success
+[INFO] 2014-10-13 20:16:00,744 Delete VM vm-098 success
+[INFO] 2014-10-13 20:16:00,937 Define VM vm-098 success
+[INFO] 2014-10-13 20:16:01,617 Start VM vm-098 success
+[INFO] 2014-10-13 20:16:01,695 Configure VM vm-099 network success.
+[INFO] 2014-10-13 20:16:02,502 Stop VM vm-099 success
+[INFO] 2014-10-13 20:16:02,684 Delete VM vm-099 success
+[INFO] 2014-10-13 20:16:02,883 Define VM vm-099 success
+[INFO] 2014-10-13 20:16:03,599 Start VM vm-099 success
+[INFO] 2014-10-14 14:13:09,639 Wait for the VM vm-102 to clone...
+[INFO] 2014-10-14 14:19:22,550 Wait for the VM vm-103 to clone...
+[INFO] 2014-10-14 14:49:26,717 Wait for the VM vm-095 to clone...
+[INFO] 2014-10-14 15:43:37,613 The user liguizhi within a minute repeated submission.
+[INFO] 2014-10-14 16:33:10,878 Clone VM qa-tpl to vm-095 success
+[INFO] 2014-10-14 16:33:11,433 Wait for the VM vm-095 to start...
+[INFO] 2014-10-14 16:33:14,842 Start VM vm-095 success
+[INFO] 2014-10-14 16:34:14,940 Configure VM vm-095 network success.
+[INFO] 2014-10-14 16:34:15,815 Stop VM vm-095 success
+[INFO] 2014-10-14 16:34:16,006 Delete VM vm-095 success
+[INFO] 2014-10-14 16:34:16,209 Define VM vm-095 success
+[INFO] 2014-10-14 16:34:16,924 Start VM vm-095 success
+[INFO] 2014-10-14 16:38:35,644 Clone VM wanliu-tpl to vm-102 success
+[INFO] 2014-10-14 16:38:36,173 Wait for the VM vm-102 to start...
+[INFO] 2014-10-14 16:38:36,210 Clone VM wanliu-tpl to vm-103 success
+[INFO] 2014-10-14 16:38:36,763 Wait for the VM vm-103 to start...
+[INFO] 2014-10-14 16:38:38,019 Start VM vm-102 success
+[INFO] 2014-10-14 16:38:39,283 Start VM vm-103 success
+[INFO] 2014-10-14 16:39:38,183 Configure VM vm-102 network success.
+[INFO] 2014-10-14 16:39:38,957 Stop VM vm-102 success
+[INFO] 2014-10-14 16:39:39,132 Delete VM vm-102 success
+[INFO] 2014-10-14 16:39:39,290 Configure VM vm-103 network success.
+[INFO] 2014-10-14 16:39:39,347 Define VM vm-102 success
+[INFO] 2014-10-14 16:39:40,301 Start VM vm-102 success
+[INFO] 2014-10-14 16:39:40,344 Stop VM vm-103 success
+[INFO] 2014-10-14 16:39:40,527 Delete VM vm-103 success
+[INFO] 2014-10-14 16:39:40,712 Define VM vm-103 success
+[INFO] 2014-10-14 16:39:41,435 Start VM vm-103 success
+[INFO] 2014-10-15 11:43:23,779 Wait for the VM vm-106 to clone...
+[INFO] 2014-10-15 11:44:09,640 Wait for the VM vm-105 to clone...
+[INFO] 2014-10-15 13:31:09,064 Clone VM qa-tpl to vm-106 success
+[INFO] 2014-10-15 13:31:09,597 Wait for the VM vm-106 to start...
+[INFO] 2014-10-15 13:31:12,638 Start VM vm-106 success
+[INFO] 2014-10-15 13:32:12,747 Configure VM vm-106 network success.
+[INFO] 2014-10-15 13:32:13,601 Stop VM vm-106 success
+[INFO] 2014-10-15 13:32:13,789 Delete VM vm-106 success
+[INFO] 2014-10-15 13:32:14,017 Define VM vm-106 success
+[INFO] 2014-10-15 13:32:14,720 Start VM vm-106 success
+[INFO] 2014-10-15 13:37:30,241 Clone VM wanliu-tpl to vm-105 success
+[INFO] 2014-10-15 13:37:30,748 Wait for the VM vm-105 to start...
+[INFO] 2014-10-15 13:37:33,440 Start VM vm-105 success
+[INFO] 2014-10-15 13:38:33,647 Configure VM vm-105 network success.
+[INFO] 2014-10-15 13:38:34,404 Stop VM vm-105 success
+[INFO] 2014-10-15 13:38:34,582 Delete VM vm-105 success
+[INFO] 2014-10-15 13:38:34,785 Define VM vm-105 success
+[INFO] 2014-10-15 13:38:35,476 Start VM vm-105 success
+[INFO] 2014-10-15 13:49:48,916 VM vm-106 has started in the 10.10.10.96
+[INFO] 2014-10-16 11:43:59,553 Wait for the VM vm-100 to clone...
+[INFO] 2014-10-16 13:32:49,462 Clone VM wanliu-tpl to vm-100 success
+[INFO] 2014-10-16 13:32:49,983 Wait for the VM vm-100 to start...
+[INFO] 2014-10-16 13:32:54,412 Start VM vm-100 success
+[INFO] 2014-10-16 13:33:54,592 Configure VM vm-100 network success.
+[INFO] 2014-10-16 13:33:55,357 Stop VM vm-100 success
+[INFO] 2014-10-16 13:33:55,620 Delete VM vm-100 success
+[INFO] 2014-10-16 13:33:55,861 Define VM vm-100 success
+[INFO] 2014-10-16 13:33:56,591 Start VM vm-100 success
+[INFO] 2014-10-16 13:51:57,629 VM vm-100 has started in the 10.10.10.96
+[INFO] 2014-10-16 16:21:13,468 Wait for the VM vm-108 to clone...
+[INFO] 2014-10-16 16:33:21,158 Clone VM default-tpl to vm-108 success
+[INFO] 2014-10-16 16:33:21,675 Wait for the VM vm-108 to start...
+[INFO] 2014-10-16 16:33:22,855 Start VM vm-108 success
+[INFO] 2014-10-16 16:34:22,931 Configure VM vm-108 network success.
+[INFO] 2014-10-16 16:34:23,707 Stop VM vm-108 success
+[INFO] 2014-10-16 16:34:23,884 Delete VM vm-108 success
+[INFO] 2014-10-16 16:34:24,082 Define VM vm-108 success
+[INFO] 2014-10-16 16:34:24,800 Start VM vm-108 success
+[INFO] 2014-10-16 16:39:48,817 Wait for the VM vm-104 to clone...
+[INFO] 2014-10-16 16:40:01,414 Wait for the VM vm-107 to clone...
+[INFO] 2014-10-16 17:55:54,032 Wait for the VM vm-109 to clone...
+[INFO] 2014-10-16 18:37:41,318 Clone VM wanliu-tpl to vm-104 success
+[INFO] 2014-10-16 18:37:41,331 Clone VM wanliu-tpl to vm-107 success
+[INFO] 2014-10-16 18:37:41,940 Wait for the VM vm-107 to start...
+[INFO] 2014-10-16 18:37:42,095 Wait for the VM vm-104 to start...
+[INFO] 2014-10-16 18:37:45,201 Start VM vm-104 success
+[INFO] 2014-10-16 18:37:45,222 Start VM vm-107 success
+[INFO] 2014-10-16 18:38:45,551 Configure VM vm-104 network success.
+[INFO] 2014-10-16 18:38:45,554 Configure VM vm-107 network success.
+[INFO] 2014-10-16 18:38:46,803 Stop VM vm-104 success
+[INFO] 2014-10-16 18:38:47,273 Stop VM vm-107 success
+[INFO] 2014-10-16 18:38:47,295 Delete VM vm-104 success
+[INFO] 2014-10-16 18:38:47,541 Delete VM vm-107 success
+[INFO] 2014-10-16 18:38:47,562 Define VM vm-104 success
+[INFO] 2014-10-16 18:38:47,833 Define VM vm-107 success
+[INFO] 2014-10-16 18:38:48,466 Start VM vm-104 success
+[INFO] 2014-10-16 18:38:48,991 Start VM vm-107 success
+[INFO] 2014-10-16 19:33:39,832 Clone VM qa-tpl to vm-109 success
+[INFO] 2014-10-16 19:33:40,382 Wait for the VM vm-109 to start...
+[INFO] 2014-10-16 19:33:44,068 Start VM vm-109 success
+[INFO] 2014-10-16 19:34:44,175 Configure VM vm-109 network success.
+[INFO] 2014-10-16 19:34:44,931 Stop VM vm-109 success
+[INFO] 2014-10-16 19:34:45,112 Delete VM vm-109 success
+[INFO] 2014-10-16 19:34:45,308 Define VM vm-109 success
+[INFO] 2014-10-16 19:34:46,000 Start VM vm-109 success
+[INFO] 2014-10-17 11:47:04,662 Stop VM vm-107 success
+[INFO] 2014-10-17 11:47:05,753 Start VM vm-107 success
+[INFO] 2014-10-17 12:23:14,915 Stop VM vm-107 success
+[INFO] 2014-10-17 12:23:20,577 Start VM vm-107 success
+[INFO] 2014-10-17 16:23:57,228 VM vm-rd-004 has started in the 10.10.10.101
+[INFO] 2014-10-17 16:24:10,429 VM vm-rd-004 has started in the 10.10.10.101
+[INFO] 2014-10-17 16:42:29,459 Stop VM vm-rd-005 success
+[INFO] 2014-10-17 16:46:17,733 Stop VM vm-rd-006 success
+[INFO] 2014-10-17 16:51:46,739 Stop VM vm-064 success
+[INFO] 2014-10-17 16:52:37,301 Stop VM vm-060 success
+[INFO] 2014-10-17 16:54:30,566 Stop VM vm-rd-004 success
+[INFO] 2014-10-17 16:58:07,437 Stop VM vm-063 success
+[INFO] 2014-10-17 17:55:20,013 Start VM vm-063 success
+[INFO] 2014-10-17 17:55:24,569 Start VM vm-060 success
+[INFO] 2014-10-17 17:55:31,247 Start VM vm-064 success
+[INFO] 2014-10-17 17:55:38,513 Start VM vm-rd-004 success
+[INFO] 2014-10-17 17:55:47,898 Start VM vm-rd-005 success
+[INFO] 2014-10-17 17:55:53,288 Start VM vm-rd-006 success
+[INFO] 2014-10-17 20:12:09,119 Start VM vm-hutao-162 success
+[INFO] 2014-10-17 20:12:48,386 Start VM vm-liuzhangxun-163 success
+[INFO] 2014-10-17 20:23:48,521 Stop VM vm-pay-003 success
+[INFO] 2014-10-17 20:23:53,864 Stop VM vm-pay-004 success
+[INFO] 2014-10-17 20:23:57,555 Stop VM vm-pay-005 success
+[INFO] 2014-10-17 20:24:05,053 Stop VM vm-rd-007 success
+[INFO] 2014-10-17 20:24:16,274 Stop VM vm-rd-008 success
+[INFO] 2014-10-17 20:42:07,573 Start VM vm-pay-003 success
+[INFO] 2014-10-17 20:42:15,216 Start VM vm-pay-004 success
+[INFO] 2014-10-17 20:42:19,149 Start VM vm-pay-005 success
+[INFO] 2014-10-17 20:42:25,450 Start VM vm-rd-007 success
+[INFO] 2014-10-17 20:42:30,270 Start VM vm-rd-008 success
+[INFO] 2014-10-18 01:14:20,579 Stop VM vm-pay-001 success
+[INFO] 2014-10-18 01:14:26,145 Stop VM vm-pay-002 success
+[INFO] 2014-10-18 01:16:21,868 Stop VM vm-qa-001 success
+[INFO] 2014-10-18 01:17:16,219 Stop VM vm-rd-001 success
+[INFO] 2014-10-18 01:17:57,106 Stop VM vm-rd-002 success
+[INFO] 2014-10-18 01:18:04,230 Stop VM vm-rd-003 success
+[INFO] 2014-10-18 01:20:34,006 Stop VM vm-077 success
+[INFO] 2014-10-18 01:23:02,564 Stop VM vm-rd-009 success
+[INFO] 2014-10-18 01:35:44,961 Stop VM vm-071 success
+[INFO] 2014-10-18 01:36:14,998 Stop VM vm-067 success
+[INFO] 2014-10-18 01:36:49,711 Stop VM vm-rd011 success
+[INFO] 2014-10-18 01:37:45,367 Stop VM vm-203 success
+[INFO] 2014-10-18 01:54:11,573 Stop VM vm-065 success
+[INFO] 2014-10-18 02:02:37,598 Stop VM vm-062 success
+[INFO] 2014-10-18 02:03:05,790 Stop VM vm-061 success
+[INFO] 2014-10-18 02:03:37,824 Stop VM vm-rd010 success
+[INFO] 2014-10-18 02:55:18,963 Start VM vm-203 success
+[INFO] 2014-10-18 02:55:25,752 Start VM vm-rd011 success
+[INFO] 2014-10-18 02:55:28,112 VM vm-rd011 has started in the 10.10.10.103
+[INFO] 2014-10-18 02:55:32,486 Start VM vm-qa-001 success
+[INFO] 2014-10-18 02:55:35,925 Start VM vm-pay-002 success
+[INFO] 2014-10-18 02:55:39,122 Start VM vm-rd-001 success
+[INFO] 2014-10-18 02:55:43,178 VM vm-rd-001 has started in the 10.10.10.103
+[INFO] 2014-10-18 02:55:52,906 Start VM vm-rd-002 success
+[INFO] 2014-10-18 02:56:22,765 Start VM vm-rd-009 success
+[INFO] 2014-10-18 02:56:28,978 VM vm-rd-009 has started in the 10.10.10.103
+[INFO] 2014-10-18 02:57:01,551 Start VM vm-071 success
+[INFO] 2014-10-18 02:57:27,573 Start VM vm-067 success
+[INFO] 2014-10-18 02:57:27,588 VM vm-067 has started in the 10.10.10.103
+[INFO] 2014-10-18 02:58:03,979 Start VM vm-065 success
+[INFO] 2014-10-18 02:58:30,539 Start VM vm-062 success
+[INFO] 2014-10-18 02:59:36,834 VM vm-dushengyong-171 has started in the 10.10.10.102
+[INFO] 2014-10-18 02:59:40,291 VM vm-hutao-162 has started in the 10.10.10.102
+[INFO] 2014-10-18 02:59:43,493 VM vm-liujiangbei-174 has started in the 10.10.10.102
+[INFO] 2014-10-18 02:59:46,344 Start VM vm-pay-001 success
+[INFO] 2014-10-18 03:00:25,296 VM vm-rd007-188 has started in the 10.10.10.85
+[INFO] 2014-10-18 03:00:29,523 Stop VM vm-rd007-188 success
+[INFO] 2014-10-18 03:00:36,597 Start VM vm-rd007-188 success
+[INFO] 2014-10-18 03:01:47,505 Start VM vm-rd010 success
+[INFO] 2014-10-18 03:01:47,551 Start VM vm-077 success
+[INFO] 2014-10-18 03:01:47,553 Start VM vm-rd-003 success
+[INFO] 2014-10-18 03:04:13,188 Start VM vm-061 success
+[INFO] 2014-10-18 03:04:29,062 VM vm-pay-001 has started in the 10.10.10.103
+[INFO] 2014-10-18 03:04:52,114 VM vm-061 has started in the 10.10.10.103
+[INFO] 2014-10-18 03:05:04,208 VM vm-061 has started in the 10.10.10.103
+[INFO] 2014-10-18 11:54:14,301 Stop VM vm-066 success
+[INFO] 2014-10-18 11:54:18,789 Stop VM vm-068 success
+[INFO] 2014-10-18 11:54:22,247 Stop VM vm-069 success
+[INFO] 2014-10-18 11:54:26,378 Stop VM vm-070 success
+[INFO] 2014-10-18 11:56:33,669 Stop VM vm-072 success
+[INFO] 2014-10-18 11:56:39,036 Stop VM vm-073 success
+[INFO] 2014-10-18 12:54:07,366 Stop VM vm-074 success
+[INFO] 2014-10-18 13:13:17,062 Stop VM vm-075 success
+[INFO] 2014-10-18 13:13:18,109 Start VM vm-075 success
+[INFO] 2014-10-18 13:13:43,148 Stop VM vm-075 success
+[INFO] 2014-10-18 13:14:01,373 Stop VM vm-076 success
+[INFO] 2014-10-18 13:38:54,964 Stop VM vm-082 success
+[INFO] 2014-10-18 13:39:14,145 Stop VM vm-078 success
+[INFO] 2014-10-18 13:40:04,792 Stop VM vm-079 success
+[INFO] 2014-10-18 14:12:56,630 Start VM vm-079 success
+[INFO] 2014-10-18 14:12:59,316 Start VM vm-078 success
+[INFO] 2014-10-18 14:13:11,274 Start VM vm-066 success
+[INFO] 2014-10-18 14:13:13,506 Start VM vm-068 success
+[INFO] 2014-10-18 14:13:17,224 Start VM vm-069 success
+[INFO] 2014-10-18 14:13:19,659 Start VM vm-070 success
+[INFO] 2014-10-18 14:13:21,911 Start VM vm-072 success
+[INFO] 2014-10-18 14:13:24,436 Start VM vm-073 success
+[INFO] 2014-10-18 14:13:31,591 Start VM vm-074 success
+[INFO] 2014-10-18 14:13:34,014 Start VM vm-075 success
+[INFO] 2014-10-18 14:13:37,677 Start VM vm-076 success
+[INFO] 2014-10-18 14:13:39,981 Start VM vm-082 success
+[INFO] 2014-10-18 14:28:52,989 Stop VM vm-081 success
+[INFO] 2014-10-18 14:29:23,873 Stop VM vm-083 success
+[INFO] 2014-10-18 14:29:33,435 Stop VM vm-084 success
+[INFO] 2014-10-18 14:29:35,745 Stop VM vm-086 success
+[INFO] 2014-10-18 14:29:55,521 Stop VM vm-087 success
+[INFO] 2014-10-18 14:30:20,121 Stop VM vm-088 success
+[INFO] 2014-10-18 16:25:17,798 Stop VM vm-091 success
+[INFO] 2014-10-18 16:25:33,887 Stop VM vm-101 success
+[INFO] 2014-10-18 16:26:08,980 Stop VM vm-097 success
+[INFO] 2014-10-18 16:26:25,624 Stop VM vm-098 success
+[INFO] 2014-10-18 16:26:46,478 Stop VM vm-099 success
+[INFO] 2014-10-18 16:27:32,664 Stop VM vm-102 success
+[INFO] 2014-10-18 17:21:59,607 Stop VM vm-103 success
+[INFO] 2014-10-18 18:35:15,663 Stop VM vm-095 success
+[INFO] 2014-10-18 18:35:32,238 Stop VM vm-100 success
+[INFO] 2014-10-18 18:35:46,380 Stop VM vm-104 success
+[INFO] 2014-10-18 18:35:59,824 Stop VM vm-105 success
+[INFO] 2014-10-18 18:36:11,458 Stop VM vm-106 success
+[INFO] 2014-10-18 18:36:22,082 Stop VM vm-107 success
+[INFO] 2014-10-18 20:17:48,753 Stop VM vm-089 success
+[INFO] 2014-10-18 20:17:53,416 Stop VM vm-108 success
+[INFO] 2014-10-18 20:17:55,423 Stop VM vm-109 success
+[INFO] 2014-10-18 20:20:17,611 Stop VM vm-090 success
+[INFO] 2014-10-18 20:29:05,494 Stop VM vm-092 success
+[INFO] 2014-10-18 20:29:08,973 Stop VM vm-093 success
+[INFO] 2014-10-18 20:30:11,991 Stop VM vm-085 success
+[INFO] 2014-10-18 21:31:59,214 Stop VM vm-094 success
+[INFO] 2014-10-18 21:32:01,153 Stop VM vm-096 success
+[INFO] 2014-10-18 21:36:05,745 Start VM vm-081 success
+[INFO] 2014-10-18 21:36:15,032 Start VM vm-083 success
+[INFO] 2014-10-18 21:36:19,065 Start VM vm-084 success
+[INFO] 2014-10-18 21:36:21,319 Start VM vm-086 success
+[INFO] 2014-10-18 21:36:23,732 Start VM vm-087 success
+[INFO] 2014-10-18 21:36:25,494 VM vm-084 has started in the 10.10.10.96
+[INFO] 2014-10-18 21:36:40,748 Start VM vm-088 success
+[INFO] 2014-10-18 21:36:45,015 Start VM vm-089 success
+[INFO] 2014-10-18 21:36:50,437 Start VM vm-091 success
+[INFO] 2014-10-18 21:36:57,600 Start VM vm-101 success
+[INFO] 2014-10-18 21:37:02,459 Start VM vm-097 success
+[INFO] 2014-10-18 21:37:07,612 Start VM vm-098 success
+[INFO] 2014-10-18 21:37:09,847 Start VM vm-099 success
+[INFO] 2014-10-18 21:37:12,221 Start VM vm-102 success
+[INFO] 2014-10-18 21:37:14,479 Start VM vm-103 success
+[INFO] 2014-10-18 21:37:16,915 Start VM vm-095 success
+[INFO] 2014-10-18 21:37:19,435 Start VM vm-100 success
+[INFO] 2014-10-18 21:37:23,119 Start VM vm-104 success
+[INFO] 2014-10-18 21:37:25,572 Start VM vm-105 success
+[INFO] 2014-10-18 21:37:29,337 Start VM vm-106 success
+[INFO] 2014-10-18 21:37:31,485 Start VM vm-107 success
+[INFO] 2014-10-18 21:37:37,066 Start VM vm-108 success
+[INFO] 2014-10-18 21:37:39,734 Start VM vm-109 success
+[INFO] 2014-10-18 22:45:08,479 VM vm-104 has started in the 10.10.10.96
+[INFO] 2014-10-18 22:45:10,153 VM vm-105 has started in the 10.10.10.96
+[INFO] 2014-10-18 22:45:11,911 VM vm-106 has started in the 10.10.10.96
+[INFO] 2014-10-18 22:45:13,694 VM vm-107 has started in the 10.10.10.96
+[INFO] 2014-10-18 22:45:15,536 VM vm-108 has started in the 10.10.10.96
+[INFO] 2014-10-18 22:45:17,744 VM vm-109 has started in the 10.10.10.96
+[INFO] 2014-10-18 22:46:08,778 Start VM vm-090 success
+[INFO] 2014-10-18 22:46:10,983 Start VM vm-092 success
+[INFO] 2014-10-18 22:46:12,771 Start VM vm-093 success
+[INFO] 2014-10-18 22:46:14,604 Start VM vm-085 success
+[INFO] 2014-10-18 22:46:16,437 Start VM vm-094 success
+[INFO] 2014-10-18 22:46:18,949 Start VM vm-096 success
+[INFO] 2014-10-18 22:48:17,245 Stop VM vm-080 success
+[INFO] 2014-10-18 22:50:17,252 Stop VM vm-rd008-189 success
+[INFO] 2014-10-18 22:50:38,146 Stop VM vm-rd009-201 success
+[INFO] 2014-10-18 22:51:15,900 Stop VM vm-rd006 success
+[INFO] 2014-10-18 22:51:40,892 Stop VM vm-rd007-188 success
+[INFO] 2014-10-18 23:51:02,918 Start VM vm-rd007-188 success
+[INFO] 2014-10-18 23:51:35,630 Start VM vm-rd006 success
+[INFO] 2014-10-18 23:51:44,837 Start VM vm-rd008-189 success
+[INFO] 2014-10-18 23:51:54,719 Start VM vm-rd009-201 success
+[INFO] 2014-10-18 23:53:01,363 Start VM vm-080 success
+[INFO] 2014-10-19 00:42:17,070 Wait for the VM vm-111 to clone...
+[INFO] 2014-10-19 00:42:19,375 Wait for the VM vm-112 to clone...
+[INFO] 2014-10-19 00:42:23,154 Wait for the VM vm-110 to clone...
+[INFO] 2014-10-19 01:40:05,984 Clone VM wanliu-tpl to vm-111 success
+[INFO] 2014-10-19 01:40:06,500 Wait for the VM vm-111 to start...
+[INFO] 2014-10-19 01:40:10,204 Start VM vm-111 success
+[INFO] 2014-10-19 01:41:10,419 Configure VM vm-111 network success.
+[INFO] 2014-10-19 01:41:16,163 Stop VM vm-111 success
+[INFO] 2014-10-19 01:41:16,348 Delete VM vm-111 success
+[INFO] 2014-10-19 01:41:16,572 Define VM vm-111 success
+[INFO] 2014-10-19 01:41:17,296 Start VM vm-111 success
+[INFO] 2014-10-19 01:44:47,590 Clone VM qa-tpl to vm-110 success
+[INFO] 2014-10-19 01:44:48,294 Wait for the VM vm-110 to start...
+[INFO] 2014-10-19 01:44:50,302 Start VM vm-110 success
+[INFO] 2014-10-19 01:45:50,374 Configure VM vm-110 network success.
+[INFO] 2014-10-19 01:45:51,254 Stop VM vm-110 success
+[INFO] 2014-10-19 01:45:51,479 Delete VM vm-110 success
+[INFO] 2014-10-19 01:45:51,697 Define VM vm-110 success
+[INFO] 2014-10-19 01:45:52,418 Start VM vm-110 success
+[INFO] 2014-10-19 01:48:49,182 Clone VM qa-tpl to vm-112 success
+[INFO] 2014-10-19 01:48:49,702 Wait for the VM vm-112 to start...
+[INFO] 2014-10-19 01:48:53,621 Start VM vm-112 success
+[INFO] 2014-10-19 01:49:53,688 Configure VM vm-112 network success.
+[INFO] 2014-10-19 01:49:54,456 Stop VM vm-112 success
+[INFO] 2014-10-19 01:49:54,633 Delete VM vm-112 success
+[INFO] 2014-10-19 01:49:54,866 Define VM vm-112 success
+[INFO] 2014-10-19 01:49:55,596 Start VM vm-112 success
+[INFO] 2014-10-19 21:35:41,877 VM vm-rd010 has started in the 10.10.10.103
+[INFO] 2014-10-20 09:48:27,883 Stop VM vm-107 success
+[INFO] 2014-10-20 09:48:31,377 Start VM vm-107 success
+[INFO] 2014-10-20 11:41:46,009 Stop VM vm-rd001-181 success
+[INFO] 2014-10-20 11:46:07,144 Wait for the VM vm-113 to clone...
+[INFO] 2014-10-20 12:48:48,161 Clone VM qa-tpl to vm-113 success
+[INFO] 2014-10-20 12:48:48,660 Wait for the VM vm-113 to start...
+[INFO] 2014-10-20 12:48:57,149 Start VM vm-113 success
+[INFO] 2014-10-20 12:49:57,224 Configure VM vm-113 network success.
+[INFO] 2014-10-20 12:49:58,055 Stop VM vm-113 success
+[INFO] 2014-10-20 12:49:58,237 Delete VM vm-113 success
+[INFO] 2014-10-20 12:49:58,478 Define VM vm-113 success
+[INFO] 2014-10-20 12:49:59,220 Start VM vm-113 success
+[INFO] 2014-10-20 17:08:05,299 Wait for the VM vm-117 to clone...
+[INFO] 2014-10-20 17:10:53,956 Wait for the VM vm-116 to clone...
+[INFO] 2014-10-20 17:58:45,182 Clone VM qa-tpl to vm-117 success
+[INFO] 2014-10-20 17:58:45,682 Wait for the VM vm-117 to start...
+[INFO] 2014-10-20 17:58:53,265 Start VM vm-117 success
+[INFO] 2014-10-20 17:59:53,333 Configure VM vm-117 network success.
+[INFO] 2014-10-20 17:59:54,424 Stop VM vm-117 success
+[INFO] 2014-10-20 17:59:54,613 Delete VM vm-117 success
+[INFO] 2014-10-20 17:59:54,815 Define VM vm-117 success
+[INFO] 2014-10-20 17:59:55,488 Start VM vm-117 success
+[INFO] 2014-10-20 18:05:14,998 Clone VM wanliu-tpl to vm-116 success
+[INFO] 2014-10-20 18:05:15,492 Wait for the VM vm-116 to start...
+[INFO] 2014-10-20 18:05:21,083 Start VM vm-116 success
+[INFO] 2014-10-20 18:06:21,151 Configure VM vm-116 network success.
+[INFO] 2014-10-20 18:06:21,944 Stop VM vm-116 success
+[INFO] 2014-10-20 18:06:22,125 Delete VM vm-116 success
+[INFO] 2014-10-20 18:06:22,362 Define VM vm-116 success
+[INFO] 2014-10-20 18:06:23,147 Start VM vm-116 success
+[INFO] 2014-10-21 15:47:59,858 Wait for the VM vm-119 to clone...
+[INFO] 2014-10-21 15:54:04,353 Clone VM default-tpl to vm-119 success
+[INFO] 2014-10-21 15:54:04,901 Wait for the VM vm-119 to start...
+[INFO] 2014-10-21 15:54:12,786 Start VM vm-119 success
+[INFO] 2014-10-21 15:55:12,856 Configure VM vm-119 network success.
+[INFO] 2014-10-21 15:55:14,069 Stop VM vm-119 success
+[INFO] 2014-10-21 15:55:14,250 Delete VM vm-119 success
+[INFO] 2014-10-21 15:55:14,616 Define VM vm-119 success
+[INFO] 2014-10-21 15:55:15,318 Start VM vm-119 success
+[INFO] 2014-10-21 16:07:22,551 Stop VM vm-119 success
+[INFO] 2014-10-21 16:07:22,733 Delete VM vm-119 success
+[INFO] 2014-10-21 16:17:38,916 Wait for the VM vm-119 to clone...
+[INFO] 2014-10-21 16:22:48,883 Clone VM default-tpl to vm-119 success
+[INFO] 2014-10-21 16:22:49,411 Wait for the VM vm-119 to start...
+[INFO] 2014-10-21 16:22:50,684 Start VM vm-119 success
+[INFO] 2014-10-21 16:24:00,722 Configure VM vm-119 network success.
+[INFO] 2014-10-21 16:24:01,501 Stop VM vm-119 success
+[INFO] 2014-10-21 16:24:01,678 Delete VM vm-119 success
+[INFO] 2014-10-21 16:24:01,878 Define VM vm-119 success
+[INFO] 2014-10-21 16:24:02,578 Start VM vm-119 success
+[INFO] 2014-10-21 20:10:12,709 Wait for the VM vm-115 to clone...
+[INFO] 2014-10-21 20:10:15,402 Wait for the VM vm-118 to clone...
+[INFO] 2014-10-21 20:59:57,438 Clone VM qa-tpl to vm-118 success
+[INFO] 2014-10-21 20:59:57,994 Wait for the VM vm-118 to start...
+[INFO] 2014-10-21 21:00:00,999 Start VM vm-118 success
+[INFO] 2014-10-21 21:01:01,058 Configure VM vm-118 network success.
+[INFO] 2014-10-21 21:01:01,971 Stop VM vm-118 success
+[INFO] 2014-10-21 21:01:02,154 Delete VM vm-118 success
+[INFO] 2014-10-21 21:01:02,384 Define VM vm-118 success
+[INFO] 2014-10-21 21:01:03,069 Start VM vm-118 success
+[INFO] 2014-10-21 21:08:23,326 VM vm-118 has started in the 10.10.10.104
+[INFO] 2014-10-21 21:12:20,679 Clone VM wanliu-tpl to vm-115 success
+[INFO] 2014-10-21 21:12:21,180 Wait for the VM vm-115 to start...
+[INFO] 2014-10-21 21:12:25,319 Start VM vm-115 success
+[INFO] 2014-10-21 21:13:25,388 Configure VM vm-115 network success.
+[INFO] 2014-10-21 21:13:26,178 Stop VM vm-115 success
+[INFO] 2014-10-21 21:13:26,358 Delete VM vm-115 success
+[INFO] 2014-10-21 21:13:26,587 Define VM vm-115 success
+[INFO] 2014-10-21 21:13:27,282 Start VM vm-115 success
+[INFO] 2014-10-22 14:54:51,624 The user chenranwei within a minute repeated submission.
+[INFO] 2014-10-22 14:56:30,443 Wait for the VM vm-120 to clone...
+[INFO] 2014-10-22 14:56:33,147 Wait for the VM vm-121 to clone...
+[INFO] 2014-10-22 15:44:39,265 Wait for the VM vm-122 to clone...
+[INFO] 2014-10-22 15:58:19,084 Clone VM qa-tpl to vm-120 success
+[INFO] 2014-10-22 15:58:19,592 Wait for the VM vm-120 to start...
+[INFO] 2014-10-22 15:58:19,870 Clone VM qa-tpl to vm-121 success
+[INFO] 2014-10-22 15:58:20,460 Wait for the VM vm-121 to start...
+[INFO] 2014-10-22 15:58:23,808 Start VM vm-120 success
+[INFO] 2014-10-22 15:58:23,820 Start VM vm-121 success
+[INFO] 2014-10-22 15:59:23,880 Configure VM vm-120 network success.
+[INFO] 2014-10-22 15:59:23,892 Configure VM vm-121 network success.
+[INFO] 2014-10-22 15:59:24,878 Stop VM vm-121 success
+[INFO] 2014-10-22 15:59:25,436 Stop VM vm-120 success
+[INFO] 2014-10-22 15:59:25,457 Delete VM vm-121 success
+[INFO] 2014-10-22 15:59:25,705 Delete VM vm-120 success
+[INFO] 2014-10-22 15:59:25,853 Define VM vm-121 success
+[INFO] 2014-10-22 15:59:25,893 Define VM vm-120 success
+[INFO] 2014-10-22 15:59:27,059 Start VM vm-120 success
+[INFO] 2014-10-22 15:59:27,071 Start VM vm-121 success
+[INFO] 2014-10-22 16:32:23,174 Clone VM wanliu-tpl to vm-122 success
+[INFO] 2014-10-22 16:32:23,679 Wait for the VM vm-122 to start...
+[INFO] 2014-10-22 16:32:28,029 Start VM vm-122 success
+[INFO] 2014-10-22 16:33:28,102 Configure VM vm-122 network success.
+[INFO] 2014-10-22 16:33:28,909 Stop VM vm-122 success
+[INFO] 2014-10-22 16:33:29,088 Delete VM vm-122 success
+[INFO] 2014-10-22 16:33:29,475 Define VM vm-122 success
+[INFO] 2014-10-22 16:33:30,301 Start VM vm-122 success
+[INFO] 2014-10-22 17:00:42,343 Stop VM vm-120 success
+[INFO] 2014-10-22 17:05:55,616 Start VM vm-120 success
+[INFO] 2014-10-22 17:10:40,335 Stop VM vm-121 success
+[INFO] 2014-10-22 17:12:04,656 Start VM vm-121 success
+[INFO] 2014-10-24 11:47:54,851 Wait for the VM vm-126 to clone...
+[INFO] 2014-10-24 11:48:32,766 Wait for the VM vm-124 to clone...
+[INFO] 2014-10-24 11:48:44,818 Wait for the VM vm-125 to clone...
+[INFO] 2014-10-24 11:56:05,333 Clone VM default-tpl to vm-124 success
+[INFO] 2014-10-24 11:56:05,481 Clone VM default-tpl to vm-126 success
+[INFO] 2014-10-24 11:56:05,920 Wait for the VM vm-124 to start...
+[INFO] 2014-10-24 11:56:06,071 Wait for the VM vm-126 to start...
+[INFO] 2014-10-24 11:56:10,091 Start VM vm-124 success
+[INFO] 2014-10-24 11:56:10,114 Start VM vm-126 success
+[INFO] 2014-10-24 11:57:10,167 Configure VM vm-126 network success.
+[INFO] 2014-10-24 11:57:10,169 Configure VM vm-124 network success.
+[INFO] 2014-10-24 11:57:26,053 Stop VM vm-126 success
+[INFO] 2014-10-24 11:57:26,491 Stop VM vm-124 success
+[INFO] 2014-10-24 11:57:26,499 Delete VM vm-126 success
+[INFO] 2014-10-24 11:57:26,778 Delete VM vm-124 success
+[INFO] 2014-10-24 11:57:26,926 Define VM vm-126 success
+[INFO] 2014-10-24 11:57:26,967 Define VM vm-124 success
+[INFO] 2014-10-24 11:57:28,247 Start VM vm-126 success
+[INFO] 2014-10-24 11:57:28,259 Start VM vm-124 success
+[INFO] 2014-10-24 11:59:02,610 Wait for the VM vm-127 to clone...
+[INFO] 2014-10-24 12:44:15,589 Clone VM qa-tpl to vm-127 success
+[INFO] 2014-10-24 12:44:16,118 Wait for the VM vm-127 to start...
+[INFO] 2014-10-24 12:44:18,549 Clone VM qa-tpl to vm-125 success
+[INFO] 2014-10-24 12:44:19,070 Wait for the VM vm-125 to start...
+[INFO] 2014-10-24 12:44:23,313 Start VM vm-127 success
+[INFO] 2014-10-24 12:44:23,327 Start VM vm-125 success
+[INFO] 2014-10-24 12:45:23,384 Configure VM vm-127 network success.
+[INFO] 2014-10-24 12:45:23,395 Configure VM vm-125 network success.
+[INFO] 2014-10-24 12:45:24,616 Stop VM vm-125 success
+[INFO] 2014-10-24 12:45:24,616 Stop VM vm-127 success
+[INFO] 2014-10-24 12:45:24,893 Delete VM vm-125 success
+[INFO] 2014-10-24 12:45:24,894 Delete VM vm-127 success
+[INFO] 2014-10-24 12:45:25,270 Define VM vm-125 success
+[INFO] 2014-10-24 12:45:25,291 Define VM vm-127 success
+[INFO] 2014-10-24 12:45:26,484 Start VM vm-125 success
+[INFO] 2014-10-24 12:45:26,495 Start VM vm-127 success
+[INFO] 2014-10-24 13:26:47,119 VM vm-125 has started in the 10.10.10.104
+[INFO] 2014-10-24 14:09:38,261 Stop VM vm-077 success
+[INFO] 2014-10-24 14:09:49,683 Start VM vm-077 success
+[INFO] 2014-10-24 14:29:44,732 Stop VM vm-077 success
+[INFO] 2014-10-24 14:31:35,207 Start VM vm-077 success
+[INFO] 2014-10-24 14:45:44,312 Stop VM vm-077 success
+[INFO] 2014-10-24 14:46:29,063 Start VM vm-077 success
+[INFO] 2014-10-24 14:58:33,492 Stop VM vm-077 success
+[INFO] 2014-10-24 14:58:36,768 Start VM vm-077 success
+[INFO] 2014-10-24 15:06:11,423 Stop VM vm-077 success
+[INFO] 2014-10-24 15:06:14,956 Start VM vm-077 success
+[INFO] 2014-10-24 15:08:36,114 Stop VM vm-077 success
+[INFO] 2014-10-24 15:08:40,314 Start VM vm-077 success
+[INFO] 2014-10-24 15:16:24,853 Stop VM vm-077 success
+[INFO] 2014-10-24 15:16:28,849 Start VM vm-077 success
+[INFO] 2014-10-24 16:18:02,803 Stop VM vm-107 success
+[INFO] 2014-10-24 16:18:06,300 Start VM vm-107 success
+[INFO] 2014-10-24 16:25:01,285 Stop VM vm-107 success
+[INFO] 2014-10-24 16:25:04,435 Start VM vm-107 success
+[INFO] 2014-10-24 16:30:04,435 Stop VM vm-107 success
+[INFO] 2014-10-24 16:30:05,178 Start VM vm-107 success
+[INFO] 2014-10-25 11:28:45,385 Wait for the VM vm-123 to clone...
+[INFO] 2014-10-25 11:33:37,046 Clone VM default-tpl to vm-123 success
+[INFO] 2014-10-25 11:33:37,560 Wait for the VM vm-123 to start...
+[INFO] 2014-10-25 11:33:45,462 Start VM vm-123 success
+[INFO] 2014-10-25 11:34:45,529 Configure VM vm-123 network success.
+[INFO] 2014-10-25 11:34:46,306 Stop VM vm-123 success
+[INFO] 2014-10-25 11:34:46,487 Delete VM vm-123 success
+[INFO] 2014-10-25 11:34:46,942 Define VM vm-123 success
+[INFO] 2014-10-25 11:34:47,773 Start VM vm-123 success
+[INFO] 2014-10-28 16:11:54,482 Wait for the VM vm-129 to clone...
+[INFO] 2014-10-28 16:16:48,824 Clone VM default-tpl to vm-129 success
+[INFO] 2014-10-28 16:16:49,342 Wait for the VM vm-129 to start...
+[INFO] 2014-10-28 16:16:50,522 Start VM vm-129 success
+[INFO] 2014-10-28 16:17:50,590 Configure VM vm-129 network success.
+[INFO] 2014-10-28 16:17:51,382 Stop VM vm-129 success
+[INFO] 2014-10-28 16:17:51,562 Delete VM vm-129 success
+[INFO] 2014-10-28 16:17:52,352 Define VM vm-129 success
+[INFO] 2014-10-28 16:17:54,251 Start VM vm-129 success
+[INFO] 2014-10-29 11:24:04,124 Wait for the VM vm-130 to clone...
+[INFO] 2014-10-29 11:24:08,264 Wait for the VM vm-128 to clone...
+[INFO] 2014-10-29 12:23:31,370 Clone VM wanliu-tpl to vm-128 success
+[INFO] 2014-10-29 12:23:31,901 Wait for the VM vm-128 to start...
+[INFO] 2014-10-29 12:23:34,827 Start VM vm-128 success
+[INFO] 2014-10-29 12:33:44,241 Clone VM qa-tpl to vm-130 success
+[INFO] 2014-10-29 12:33:44,739 Wait for the VM vm-130 to start...
+[INFO] 2014-10-29 12:33:49,917 Start VM vm-130 success
+[INFO] 2014-10-29 12:34:49,984 Configure VM vm-130 network success.
+[INFO] 2014-10-29 12:34:51,019 Stop VM vm-130 success
+[INFO] 2014-10-29 12:34:51,215 Delete VM vm-130 success
+[INFO] 2014-10-29 12:34:52,091 Define VM vm-130 success
+[INFO] 2014-10-29 12:34:54,171 Start VM vm-130 success
+[INFO] 2014-10-29 15:51:30,391 Stop VM vm-071 success
+[INFO] 2014-10-29 15:51:30,618 Delete VM vm-071 success
+[INFO] 2014-10-30 11:24:19,485 Wait for the VM vm-071 to clone...
+[INFO] 2014-10-30 12:17:46,720 Clone VM qa-tpl to vm-071 success
+[INFO] 2014-10-30 12:17:47,214 Wait for the VM vm-071 to start...
+[INFO] 2014-10-30 12:17:50,461 Start VM vm-071 success
+[INFO] 2014-10-30 12:18:50,503 Configure VM vm-071 network success.
+[INFO] 2014-10-30 12:18:51,301 Stop VM vm-071 success
+[INFO] 2014-10-30 12:18:51,479 Delete VM vm-071 success
+[INFO] 2014-10-30 12:18:51,710 Define VM vm-071 success
+[INFO] 2014-10-30 12:18:52,445 Start VM vm-071 success
+[INFO] 2014-10-30 14:12:52,130 Wait for the VM vm-131 to clone...
+[INFO] 2014-10-30 14:54:30,986 Clone VM wanliu-tpl to vm-131 success
+[INFO] 2014-10-30 14:54:31,490 Wait for the VM vm-131 to start...
+[INFO] 2014-10-30 14:54:34,910 Start VM vm-131 success
+[INFO] 2014-10-30 14:55:34,977 Configure VM vm-131 network success.
+[INFO] 2014-10-30 14:55:35,984 Stop VM vm-131 success
+[INFO] 2014-10-30 14:55:36,163 Delete VM vm-131 success
+[INFO] 2014-10-30 14:55:36,534 Define VM vm-131 success
+[INFO] 2014-10-30 14:55:37,351 Start VM vm-131 success
+[INFO] 2014-10-30 17:10:25,581 Wait for the VM vm-132 to clone...
+[INFO] 2014-10-30 17:15:43,856 Clone VM default-tpl to vm-132 success
+[INFO] 2014-10-30 17:15:44,362 Wait for the VM vm-132 to start...
+[INFO] 2014-10-30 17:16:03,733 Start VM vm-132 success
+[INFO] 2014-10-30 17:17:03,800 Configure VM vm-132 network success.
+[INFO] 2014-10-30 17:17:04,601 Stop VM vm-132 success
+[INFO] 2014-10-30 17:17:04,780 Delete VM vm-132 success
+[INFO] 2014-10-30 17:17:05,106 Define VM vm-132 success
+[INFO] 2014-10-30 17:17:05,841 Start VM vm-132 success
+[INFO] 2014-10-30 18:46:46,754 Stop VM vm-091 success
+[INFO] 2014-10-30 18:46:46,954 Delete VM vm-091 success
+[INFO] 2014-10-30 18:55:17,486 Wait for the VM vm-133 to clone...
+[INFO] 2014-10-30 19:01:02,888 Clone VM default-tpl to vm-133 success
+[INFO] 2014-10-30 19:01:03,380 Wait for the VM vm-133 to start...
+[INFO] 2014-10-30 19:01:05,075 Start VM vm-133 success
+[INFO] 2014-10-30 19:02:05,142 Configure VM vm-133 network success.
+[INFO] 2014-10-30 19:02:05,898 Stop VM vm-133 success
+[INFO] 2014-10-30 19:02:06,079 Delete VM vm-133 success
+[INFO] 2014-10-30 19:02:06,330 Define VM vm-133 success
+[INFO] 2014-10-30 19:02:07,268 Start VM vm-133 success
+[INFO] 2014-10-31 14:05:55,441 The user wuzhenghua within a minute repeated submission.

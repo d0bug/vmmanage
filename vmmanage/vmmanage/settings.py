@@ -1,0 +1,146 @@
+"""
+Django settings for vmmanage project.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/1.6/topics/settings/
+
+For the full list of settings and their values, see
+https://docs.djangoproject.com/en/1.6/ref/settings/
+"""
+
+# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+
+
+# Quick-start development settings - unsuitable for production
+# See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
+
+# SECURITY WARNING: keep the secret key used in production secret!
+SECRET_KEY = '85la1@sf&79jegd_3xggh=hs4y!-voqnckfi1$5mjv-jhw3+an'
+
+# SECURITY WARNING: don't run with debug turned on in production!
+DEBUG = True
+
+TEMPLATE_DEBUG = True
+
+ALLOWED_HOSTS = []
+
+
+# Application definition
+
+INSTALLED_APPS = (
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'vm',
+)
+
+MIDDLEWARE_CLASSES = (
+    'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.middleware.common.CommonMiddleware',
+#    'django.middleware.csrf.CsrfViewMiddleware',
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.contrib.messages.middleware.MessageMiddleware',
+    'django.middleware.clickjacking.XFrameOptionsMiddleware',
+)
+
+ROOT_URLCONF = 'vmmanage.urls'
+
+WSGI_APPLICATION = 'vmmanage.wsgi.application'
+
+
+# Database
+# https://docs.djangoproject.com/en/1.6/ref/settings/#databases
+
+DATABASES = {
+
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'USER': 'root',
+        'PASSWORD': 'root',
+        'NAME': 'vm',
+        'PORT': 3366,
+        'HOST': '/home/xiaoju/mysql/tmp/mysql.sock'
+    },
+    'user': {
+        'ENGINE': 'django.db.backends.mysql',
+        'HOST': 'huston.xiaojukeji.com',
+        'USER': 'django',
+        'PASSWORD': 'd73d5f5b97c6bf8711cdb20718bd4972',
+        'NAME': 'django',
+        'PORT': 3206,
+    },
+
+    'qa': {
+        'ENGINE': 'django.db.backends.mysql',
+        'HOST': '10.10.10.167',
+        'USER': 'root',
+        'PASSWORD': '123456',
+        'NAME': 'test',
+        'PORT': 3306,
+    },
+}
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': True,
+    'formatters': {
+        'standard': {
+            'format': '[%(levelname)s] %(asctime)s %(message)s'
+        },
+    },
+    'filters': {
+    },
+    'handlers': {
+        'access': {
+            'level':'DEBUG',
+            'class':'logging.handlers.RotatingFileHandler',
+            'filename':'log/access.log',
+            'formatter':'standard',
+        },
+        'error': {
+            'level':'DEBUG',
+            'class':'logging.handlers.RotatingFileHandler',
+            'filename':'log/error.log',
+            'formatter':'standard',
+        },
+    },
+    'loggers': {
+        'info': {
+            'handlers': ['access'],
+            'level': 'INFO',
+            'propagate': False
+        },
+        'error': {
+            'handlers': ['error'],
+            'level': 'INFO',
+            'propagate': False
+        },
+    },
+}
+
+# Internationalization
+# https://docs.djangoproject.com/en/1.6/topics/i18n/
+
+LANGUAGE_CODE = 'en-us'
+
+#TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
+
+USE_I18N = True
+
+USE_L10N = True
+
+USE_TZ = False
+
+
+# Static files (CSS, JavaScript, Images)
+# https://docs.djangoproject.com/en/1.6/howto/static-files/
+
+STATIC_URL = '/static/'
+
+APPEND_SLASH = True
